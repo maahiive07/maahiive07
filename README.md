@@ -89,12 +89,30 @@
 
 
 
-🌐 Let's Connect
+<br/>
 
-<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-282038?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/mahisharmamahi62-web)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-E9A8D4?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/)
+<div align="center">
+
+<h2>୨ৎ LET'S CONNECT ୨ৎ</h2>
+
+<p><i>Find me around the internet ♡</i></p>
+
+<a href="https://github.com/mahisharmamahi62-web">
+  <img src="https://img.shields.io/badge/GitHub-D8B4FE?style=for-the-badge&logo=github&logoColor=282038" />
+</a>
+
+<a href="YOUR_LINKEDIN_PROFILE_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-FBCFE8?style=for-the-badge&logo=linkedin&logoColor=282038" />
+</a>
+
+<br/>
+<br/>
+
+*Let's build something interesting together.* ✧
 
 </div>
+
+<br/>
 
 <div align="center">🌷 Thanks for visiting my little corner of GitHub!
 
