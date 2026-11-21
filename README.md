@@ -7,20 +7,23 @@
 
 </div>---
 
-🌸 About Me
+🎀 About Me
 
-- 🎀 Hi! I'm Mahi.
-- 💻 I'm exploring the world of development.
-- 🌱 Currently learning: [Add your current skill]
-- ✨ Interested in: [Add your interests]
-- 💜 I love creating, learning and experimenting with new ideas.
-- 🌷 My goal: Keep learning and build things that make a difference.
+- 🪞 Hi, I'm Mahi — 50% ambition, 50% confusion, 100% questionable decisions. 🫠
+- 🖥️ Learning to code because apparently overthinking wasn't enough. 💀
+- 🪲 Collecting bugs like Pokémon. Gotta catch 'em all!
+- 🔮 Google is my backup, ChatGPT is my unpaid coding mentor. 🤌🏻
+- ☕ Powered by coffee and the delusion that I know what I'm doing. 🪄
+- 🦋 Still debugging, still thriving, still confusing my teachers with my career choices. 🎭
+- 📚 Teachers say "practice more", my code says "not today". 🥲
+
+𓍢ִ໋🌷͙֒ Fun fact: My code works on my laptop. That's between me and my laptop. ☕💀
 
 ---
 
 🦋 My Tech Universe
 
-<div align="center"><!-- Replace these with technologies you actually use --><img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=light" /></div>---
+<div align="center"><!-- Replace these with technologies you actually use --><img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" /></div>---
 
 📊 My GitHub Universe
 
