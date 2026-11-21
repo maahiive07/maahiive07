@@ -1,4 +1,4 @@
-"<picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/signal-grid?username=mahisharmamahi62-web&mode=light&v=2026-11-11" /> <img src="https://www.gitskins.com/api/section/signal-grid?username=mahisharmamahi62-web&mode=dark&v=2026-11-11" width="100%" alt="A ship flying my contribution grid" /> </picture> <sub>The level is my real contribution grid; the ship eats every busy day.</sub> <picture> <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/signal-about?username=mahisharmamahi62-web&mode=light&v=2026-11-11" /> <img src="https://www.gitskins.com/api/section/signal-about?username=mahisharmamahi62-web&mode=dark&v=2026-11-11" width="100%" alt="About Mahi-Sharma.dev: Product-minded developer" /> </picture> "
+
 <div align="center">
 
 <!-- Animated Header Banner -->
