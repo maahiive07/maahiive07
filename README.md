@@ -54,15 +54,32 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/mahisharmamahi62-web/mahisharmamahi62-web/output/snake.svg" alt="Contribution Snake Animation" width="100%" /></div>
 
-🎧 A Little Music Corner
+<br/>
 
-<div align="center"><img src="https://img.shields.io/badge/♫_NOW_PLAYING-My_Coding_Mood-E9A8D4?style=for-the-badge&labelColor=282038" />☁️ Dream • Code • Repeat
+<div align="center">
 
-Soft music, creative thoughts and endless possibilities.
+<h2>♫ THE LITTLE MUSIC ROOM ♫</h2>
 
-""Spotify" (https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)" (https://open.spotify.com/)
+<p><i>A soundtrack to my questionable coding decisions.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8B4FE,100:FBCFE8&height=3&section=header" width="65%" />
+
+<br/>
+
+### 🎧 Mahi's Current Mood
+
+**☕ Coffee • Music • Late-night coding**
+
+[![Spotify](https://img.shields.io/badge/♫_LISTEN_WITH_ME-8E6BBE?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
+
+<br/>
+
+*Somewhere between a melody and a missing semicolon.* ♡
 
 </div>
+
+<br/>
+<br/>
 
 💗 Featured Projects
 
