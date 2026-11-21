@@ -1,5 +1,5 @@
 🎀 Hey there, I'm Mahiiii..!
-
+<br/><br/>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAD7F5,30:F9C6E8,65:CDB4DB,100:FCE4EC&height=260&section=header&text=𝓜𝓐𝓗𝓘%20𝓢𝓗𝓐𝓡𝓜𝓐&fontSize=48&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Too%20glam%20to%20debug%20quietly&descSize=17&descAlignY=65" width="100%"/>
