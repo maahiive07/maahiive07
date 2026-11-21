@@ -1,6 +1,16 @@
 🎀 Hey there, I'm Mahiiii..!
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&color=0:D8B4FE,50:FBCFE8,100:E9D5FF&height=190&section=header&text=MAHI%20SHARMA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55&stroke=F9A8D4&strokeWidth=1" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=21&duration=3000&pause=1000&color=D88BCB&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+%F0%9F%8E%80;Developer+in+progress+%E2%9C%A8;Creating+little+things+with+big+dreams+%F0%9F%92%97" alt="Typing SVG" /><br/>🌷 Learning, building, experimenting and growing one commit at a time.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAD7F5,30:F9C6E8,65:CDB4DB,100:FCE4EC&height=260&section=header&text=𝓜𝓐𝓗𝓘%20𝓢𝓗𝓐𝓡𝓜𝓐&fontSize=48&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Too%20glam%20to%20debug%20quietly&descSize=17&descAlignY=65" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=23&duration=3000&pause=1000&color=D88BCB&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+universe+%F0%9F%8C%B7;Dreaming+big%2C+debugging+bigger+%F0%9F%92%80;A+little+chaos+never+hurt+%F0%9F%8E%80" />
+
+✧･ﾟ: *✧･ﾟ:* 𓆩♡𓆪 *:･ﾟ✧*:･ﾟ✧
+
+**☕ Coffee in hand. Dreams in mind. Bugs everywhere.**
+
+</div>
 
 ""GitHub followers" (https://img.shields.io/github/followers/mahisharmamahi62-web?style=for-the-badge&color=E9A8D4&labelColor=282038&logo=github)" (https://github.com/mahisharmamahi62-web)
 ""Profile Views" (https://komarev.com/ghpvc/?username=mahisharmamahi62-web&style=for-the-badge&color=C4A1E8&label=PROFILE+VIEWS)" (https://github.com/mahisharmamahi62-web)
