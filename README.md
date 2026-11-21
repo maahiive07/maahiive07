@@ -85,7 +85,7 @@
 
 <div align="center"><a href="https://github.com/mahisharmamahi62-web">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahisharmamahi62-web&repo=YOUR_PROJECT_REPO&theme=tokyonight&bg_color=1E1930&title_color=F5B6DF&text_color=EADCF8&border_color=E9A8D4" />
-</a></div>«🌷 Replace "YOUR_PROJECT_REPO" with an actual repository name. Add more project cards as you build projects.»
+</a></div>
 
 
 
