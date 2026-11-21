@@ -3,6 +3,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EAD7F5,30:F9C6E8,65:CDB4DB,100:FCE4EC&height=260&section=header&text=𝓜𝓐𝓗𝓘%20𝓢𝓗𝓐𝓡𝓜𝓐&fontSize=48&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=Too%20glam%20to%20debug%20quietly&descSize=17&descAlignY=65" width="100%"/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=23&duration=3000&pause=1000&color=D88BCB&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+universe+%F0%9F%8C%B7;Dreaming+big%2C+debugging+bigger+%F0%9F%92%80;A+little+chaos+never+hurt+%F0%9F%8E%80" />
 
@@ -10,7 +11,7 @@
 
 **☕ Coffee in hand. Dreams in mind. Bugs everywhere.**
 
-</div>
+</div><br/><br/>
 
 <div align="center">
 
