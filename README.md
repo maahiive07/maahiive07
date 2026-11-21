@@ -12,8 +12,17 @@
 
 </div>
 
-""GitHub followers" (https://img.shields.io/github/followers/mahisharmamahi62-web?style=for-the-badge&color=E9A8D4&labelColor=282038&logo=github)" (https://github.com/mahisharmamahi62-web)
-""Profile Views" (https://komarev.com/ghpvc/?username=mahisharmamahi62-web&style=for-the-badge&color=C4A1E8&label=PROFILE+VIEWS)" (https://github.com/mahisharmamahi62-web)
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/mahisharmamahi62-web?style=for-the-badge&logo=github&logoColor=white&label=%E2%99%A1%20FOLLOWERS&labelColor=493A59&color=E9A8D4" />
+
+<img src="https://komarev.com/ghpvc/?username=mahisharmamahi62-web&style=for-the-badge&color=CDB4DB&label=%E2%9C%A7%20PROFILE%20VISITS" />
+
+<br/>
+
+<sub>𓍢ִ໋🌷͙֒ Thank you for visiting my little universe ♡</sub>
+
+</div>
 
 </div>
 
