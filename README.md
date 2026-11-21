@@ -42,7 +42,8 @@
 
 🦋 My Tech Universe
 
-<div align="center"><!-- Replace these with technologies you actually use --><img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" /></div>---
+<div align="center"><!-- Replace these with technologies you actually use --><img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" /></div>
+
 
 📊 My GitHub Universe
 
