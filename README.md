@@ -89,10 +89,6 @@
 
 </div>
 
-🐍 My Contribution Garden
-
-<div align="center"><img src="https://raw.githubusercontent.com/mahisharmamahi62-web/mahisharmamahi62-web/output/snake.svg" alt="Contribution Snake Animation" width="100%" /></div>
-
 <br/>
 
 <div align="center">
