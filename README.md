@@ -149,8 +149,6 @@
 
 <br/>
 
-<div align="center">🌷 Thanks for visiting my little corner of GitHub!
-
-Made with ♡, creativity and a little bit of lavender magic.
+<div align="center"><h3>𓆩♡𓆪 𝓛𝓮𝓪𝓿𝓲𝓷𝓰 𝓪𝓵𝓻𝓮𝓪𝓭𝔂? 𝓗𝓸𝔀 𝓭𝓻𝓪𝓶𝓪𝓽𝓲𝓬. 𝓐𝓷𝔂𝔀𝓪𝔂, 𝓫𝔂𝓮! 𓆩♡𓆪</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,50:FBCFE8,100:D8B4FE&height=100&section=footer" width="100%" /></div>
