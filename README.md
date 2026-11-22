@@ -149,6 +149,6 @@
 
 <br/>
 
-<div align="center"><h3>𓆩♡𓆪 Leaving already? How dramatic. Anyways, bye! 𓆩♡𓆪</h3>
+<div align="center"><h3>𓆩♡𓆪 Leaving already? How dramatic. Anyway, bye! 𓆩♡𓆪</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,50:FBCFE8,100:D8B4FE&height=100&section=footer" width="100%" /></div>
