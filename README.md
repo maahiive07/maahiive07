@@ -47,22 +47,45 @@
 
 
 <br/>
+<br/>
 
 <div align="center">
 
-<div align="center">
+<h1>✦ MY GITHUB UNIVERSE ✦</h1>
+
+<p><i>A little world of code, creativity & endless curiosity.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:241638,50:76558F,100:F3B6D9&height=3&section=header" width="80%"/>
+
+<br/>
 
 <h2>୨ৎ 01. GITHUB OVERVIEW ୨ৎ</h2>
 
-<p><i>A little look at my coding journey ♡</i></p>
-
 <a href="https://github.com/mahisharmamahi62-web">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahisharmamahi62-web&show_icons=true&hide_border=true&bg_color=FFF5FA&title_color=A66B91&text_color=66536F&icon_color=D99BC2&border_radius=15"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahisharmamahi62-web&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15"/>
 </a>
 
 <a href="https://github.com/mahisharmamahi62-web">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahisharmamahi62-web&layout=compact&langs_count=6&hide_border=true&bg_color=FFF5FA&title_color=A66B91&text_color=66536F&border_radius=15"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahisharmamahi62-web&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15"/>
 </a>
+
+<br/><br/>
+
+<h2>୨ৎ 02. CONTRIBUTION STREAK ୨ৎ</h2>
+
+<img src="https://streak-stats.demolab.com?user=mahisharmamahi62-web&theme=midnight-purple&hide_border=true&border_radius=15" width="80%"/>
+
+<br/><br/>
+
+<h2>୨ৎ 03. MY CONTRIBUTION GARDEN ୨ৎ</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahisharmamahi62-web&theme=react-dark&hide_border=true&area=true" width="95%"/>
+
+<br/>
+
+<p><i>Every little commit is a step forward. ♡</i></p>
+
+<br/>
 
 </div>
 
