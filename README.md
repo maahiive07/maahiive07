@@ -46,9 +46,47 @@
 <div align="center"><!-- Replace these with technologies you actually use --><img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" /></div>
 
 
-📊 My GitHub Universe
+<br/>
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=mahisharmamahi62-web&show_icons=true&theme=tokyonight&bg_color=1E1930&title_color=F5B6DF&icon_color=D8B4FE&text_color=EADCF8&border_color=E9A8D4&hide_border=false&rank_icon=github" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahisharmamahi62-web&layout=compact&theme=tokyonight&bg_color=1E1930&title_color=F5B6DF&text_color=EADCF8&border_color=E9A8D4" /><br/><img src="https://streak-stats.demolab.com?user=mahisharmamahi62-web&theme=tokyonight&background=1E1930&ring=F5B6DF&fire=D8B4FE&currStreakLabel=F5B6DF&sideLabels=EADCF8&border=E9A8D4" width="90%" /></div>
+<div align="center">
+
+<h1>✦ MY GITHUB UNIVERSE ✦</h1>
+
+<p><i>A little world of code, creativity & endless curiosity.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:241638,50:76558F,100:F3B6D9&height=3&section=header" width="80%"/>
+
+<br/>
+
+<h2>୨ৎ 01. GITHUB OVERVIEW ୨ৎ</h2>
+
+<a href="https://github.com/mahisharmamahi62-web">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahisharmamahi62-web&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15"/>
+</a>
+
+<a href="https://github.com/mahisharmamahi62-web">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahisharmamahi62-web&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15"/>
+</a>
+
+<br/><br/>
+
+<h2>୨ৎ 02. CONTRIBUTION STREAK ୨ৎ</h2>
+
+<img src="https://streak-stats.demolab.com?user=mahisharmamahi62-web&theme=midnight-purple&hide_border=true&border_radius=15" width="80%"/>
+
+<br/><br/>
+
+<h2>୨ৎ 03. MY CONTRIBUTION GARDEN ୨ৎ</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahisharmamahi62-web&theme=react-dark&hide_border=true&area=true" width="95%"/>
+
+<br/>
+
+<p><i>Every little commit is a step forward. ♡</i></p>
+
+<br/>
+
+</div>
 
 🐍 My Contribution Garden
 
