@@ -15,9 +15,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/mahisharmamahi62-web?style=for-the-badge&logo=github&logoColor=white&label=%E2%99%A1%20FOLLOWERS&labelColor=493A59&color=E9A8D4" />
+<img src="https://img.shields.io/github/followers/maahiive07-web?style=for-the-badge&logo=github&logoColor=white&label=%E2%99%A1%20FOLLOWERS&labelColor=493A59&color=E9A8D4" />
 
-<img src="https://komarev.com/ghpvc/?username=mahisharmamahi62-web&style=for-the-badge&color=CDB4DB&label=%E2%9C%A7%20PROFILE%20VISITS" />
+<img src="https://komarev.com/ghpvc/?username=maahiive07-web&style=for-the-badge&color=CDB4DB&label=%E2%9C%A7%20PROFILE%20VISITS" />
 
 <br/>
 
@@ -61,25 +61,25 @@
 
 <h2>୨ৎ 01. GITHUB OVERVIEW ୨ৎ</h2>
 
-<a href="https://github.com/mahisharmamahi62-web">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahisharmamahi62-web&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15"/>
+<a href="https://github.com/maahiive07-web">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=maahiive07-web&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15"/>
 </a>
 
-<a href="https://github.com/mahisharmamahi62-web">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahisharmamahi62-web&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15"/>
+<a href="https://github.com/maahiive07-web">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maahiive07-web&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15"/>
 </a>
 
 <br/><br/>
 
 <h2>୨ৎ 02. CONTRIBUTION STREAK ୨ৎ</h2>
 
-<img src="https://streak-stats.demolab.com?user=mahisharmamahi62-web&theme=midnight-purple&hide_border=true&border_radius=15" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=maahiive07-web&theme=midnight-purple&hide_border=true&border_radius=15" width="80%"/>
 
 <br/><br/>
 
 <h2>୨ৎ 03. MY CONTRIBUTION GARDEN ୨ৎ</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahisharmamahi62-web&theme=react-dark&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maahiive07-web&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
 <br/>
 
@@ -118,8 +118,8 @@
 
 💗 Featured Projects
 
-<div align="center"><a href="https://github.com/mahisharmamahi62-web">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mahisharmamahi62-web&repo=YOUR_PROJECT_REPO&theme=tokyonight&bg_color=1E1930&title_color=F5B6DF&text_color=EADCF8&border_color=E9A8D4" />
+<div align="center"><a href="https://github.com/maahiive07-web">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=maahiive07-web&repo=YOUR_PROJECT_REPO&theme=tokyonight&bg_color=1E1930&title_color=F5B6DF&text_color=EADCF8&border_color=E9A8D4" />
 </a></div>
 
 
@@ -132,7 +132,7 @@
 
 <p><i>Find me around the internet ♡</i></p>
 
-<a href="https://github.com/mahisharmamahi62-web">
+<a href="https://github.com/maahiive07-web">
   <img src="https://img.shields.io/badge/GitHub-D8B4FE?style=for-the-badge&logo=github&logoColor=282038" />
 </a>
 
