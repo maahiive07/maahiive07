@@ -92,7 +92,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D8B4FE,100:FBCFE8&height=3&section=header" width="65%" />
 
 <br/>
-### 🎧 Mahi's Current Mood
+🎧 Mahi's Current Mood
 
 **☕ Coffee • Music • Late-night coding**
 
